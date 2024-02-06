@@ -6,6 +6,7 @@
        <th style="width: 400px;"><p><img src="https://med.virginia.edu/exercise-physiology-core-laboratory/wp-content/uploads/sites/169/2023/04/subject-on-treadmill-with-jeison-and-macy-Attaway23-4_14-121-768x512.jpg" alt="Runner equipped with equipment meant to measure VO2max" style="float:right;width:350px;height:315px;"></p><th>
   </tr>
 </table>
+
 <p style="color:red;">Good luck.</p>
 <p>More information on VO&#x0307;<sub>2max</sub> <a href="Desktop/KNES381/Images/what-is-vo2-max-chart.jpeg">here.</a></p>
 
